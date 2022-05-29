@@ -1,2 +1,0 @@
-This mod adds a Mechsuit entity to Minecraft.
-The Mechsuit functions as a rideable entity that can sprint and jump like a horse. Projectiles may be fired from the Mechsuit and Blocks can be placed or broken with a greater range. This mod is currently under heavy development.
